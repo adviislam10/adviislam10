@@ -31,7 +31,11 @@ I’m a third-year Computer Science student specializing in Software Development
    - **Description**: A bot created with the StarCraft C++ API that plays StarCraft 2. 
    - **Tech Stack**: C++
    - Work in progress...
-   - 
+
+4. **[NeuroPomodoro: Optimized Study Timer]**  
+   - **Description**: Program that optimizes focus using the EEG headband Muse 2. 
+   - **Tech Stack**: Python
+   - [https://github.com/adviislam10/natHacks2024](#)
 ---
 
 ## 📫 Connect with Me  
