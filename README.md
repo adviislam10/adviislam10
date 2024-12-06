@@ -29,7 +29,7 @@ I’m a third-year Computer Science student specializing in Software Development
 
 3. **[StarCraft Bot]**  
    - **Description**: A bot created with the StarCraft C++ API that plays StarCraft 2. 
-   - **Tech Stack**: C++
+   - **Tech Stack**: C++, Visual Studio
    - Work in progress...
 
 4. **[NeuroPomodoro: Optimized Study Timer]**  
